@@ -4,6 +4,7 @@ import mysql.connector as sqltor
 import sys
 from prettytable import PrettyTable
 
+#this is a test string.
 #Store Initialisation
 StorePIN = 1104
 StoreDiscount = 0
